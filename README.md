@@ -1,1 +1,1 @@
-# app-angular
+# ng-pokemon-app
